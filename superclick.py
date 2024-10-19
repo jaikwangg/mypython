@@ -5,7 +5,7 @@ import time
 x=1340
 y=614
 # Set the time interval between each click in seconds
-interval = 1
+interval = 5
 
 # # Infinite loop to continuously click
 while True:

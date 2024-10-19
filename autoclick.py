@@ -6,7 +6,7 @@ x=1278
 y=828
 
 # Set the time interval between each click in seconds
-interval = 2
+interval = 5
 
 # Infinite loop to continuously click
 while True:
